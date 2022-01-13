@@ -13,7 +13,8 @@
 
 ### Visualization:
 
-Node Web - https://uofwaterloo-my.sharepoint.com/:i:/r/personal/s29zafar_uwaterloo_ca/Documents/Visualization_Results/Webpage_graph.png?csf=1&web=1&e=3SAGyh
+![Webpage_graph](https://user-images.githubusercontent.com/69566994/149311366-65ab9cc7-0fa9-4367-8195-59bca4f2423d.png)
+
 
 #### Notes:
 - If you want to restart the Page Rank calculations without re-spidering the web pages, you can use spreset.py
