@@ -1,13 +1,15 @@
 # WEB CRAWLER
-### A set of programs that emulate some functions of a search engine
+## A set of programs that emulate some functions of a search engine
 
-#### Please check the poster file in the Repository for more information
+### Implementation:
 
-##Implementation:
 ##### We have implemented a web crawler which asks the user for an intial webpage and then crawls through that webpage and its internal links.
 ##### It performs multiple searches and stores its data into a sql database(spider.sqllite)
 ##### Ranked the search results using the Page Rank algorithm to rank the most relevant search result
 ##### It then creates a visualization using a json file (which has all the data dumped into it), The result is a Node Web.
+
+#### Please check the poster file in the Repository for more information
+
 
 ### Visualization:
 
